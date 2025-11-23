@@ -22,7 +22,7 @@ The AI-Powered Study Companion
 <a href="#-key-features"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="https://www.google.com/search?q=https://huggingface.co/spaces/YOUR_USERNAME/EduSpark">View Live Demo</a>
+<a href="https://edu-spark-phi.vercel.app/">View Live Demo</a>
 ·
 <a href="#-bug-reports">Report Bug</a>
 ·
